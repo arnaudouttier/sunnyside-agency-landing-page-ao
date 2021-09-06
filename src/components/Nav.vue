@@ -25,16 +25,16 @@
     <nav class="navigation-mobile" :class="{active:navVisible}" >
         <ul> 
             <li>
-                <a href="">About</a>
+                <a href="index.html">About</a>
             </li>
             <li>
-                <a href="">Services</a>
+                <a href="index.html">Services</a>
             </li>
             <li>
-                <a href="">Projects</a>
+                <a href="index.html">Projects</a>
             </li>
             <li>
-                <a href="">CONTACT</a>
+                <a href="index.html">CONTACT</a>
             </li>
         </ul>
     </nav>
